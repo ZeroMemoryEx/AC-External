@@ -21,8 +21,8 @@ static int player_base = baseadd + oba;
 std::vector<unsigned int>ammo = { 0x0150 };
 
 std::vector<unsigned int>hpof = { 0xF8 };
-std::vector<unsigned int>grenad = { 0x158,0x38,0x200,0x48,0x1F4,0x58 };
-std::vector<unsigned int >norel { 0x0178 };
+//std::vector<unsigned int>grenad = { 0x158,0x38,0x200,0x48,0x1F4,0x58 };
+
 std::vector<unsigned int>name = { 0x225 };
 
 
